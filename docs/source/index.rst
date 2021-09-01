@@ -1,12 +1,17 @@
-.. DReAM documentation master file, created by
-   sphinx-quickstart on Mon Aug 30 13:42:03 2021.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
 
-Dream report pre-processing
-===========================
+Dream Report Annotation Manual
+==============================
 
-The dream report plays a central role in psychological dream research (`Schredl, 2018 <https://www.palgrave.com/gp/book/9783319954523>`_, Chapter 3). As the only window into the psychological mentation that occurs during sleep, the dream report is the basis for dream content analysis. Though dream experiences can be reported in drawings (e.g., ), in most studies the participant reports the dream experience in writing/typing or recorded audio. Before recorded or written reports can be used for further dream content analysis, they must first be digitized. Once in written digital form, the dream are submitted to pre-processing (i.e., cleaning) before going on for formal analysis. **The individual pre-processing steps are described in this manual.**
+Dream reports are the most viable data for studying dream content (`Windt, 2013 <https://doi.org/10.3389/fnhum.2013.00708>`_). However, in addition to the desired dream content, dream reports often contain a large amount of non-dream content. A critical step of pre-processing dream reports before formal analysis is to clean them of non-dream content. **This manual has rules for doing so.**
+
+The ultimate goal is to highlight any text that refers to dream content, and leave the rest unmarked. Dream content *in this context* refers to any mental activity that occured during sleep and description of such mental activity. Section X provides more detail and examples.
+
+**This manual is written with the assumption that dream reports are already digitized, and in most cases pulled from originally digital sources.** Though dream experiences can be reported in drawings (e.g., `Leuschner et al., 1994 <https://doi.org/10.1037/h0094387>`_), in most studies the participant reports the dream experience in written/typed or recorded audio form. Before recorded or written reports can be used for further dream content analysis, they must first be digitized.
+
+This is **not a coding manual or scoring guide**. There is no outcome for each dream report (e.g., how much emotional content in a dream). The purpose here is to *annotate* the dream reports such that those analyses can be performed later. This is a *pre-processing* step, not a processing step.
+
+Read through the entire guide before beginning to annotate, and then use the Annotation Rule section as a reference.
+
 
 .. toctree::
    :maxdepth: 2
@@ -14,16 +19,15 @@ The dream report plays a central role in psychological dream research (`Schredl,
    :caption: Sections:
 
    background
-   digitizing
-   cleaning
+   annotation
    practice
-   references
+   login
 
 
 
-Indices and tables
-==================
+.. Indices and tables
+.. ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
