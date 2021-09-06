@@ -39,12 +39,14 @@ Intro statements such as "I dreamt that ..." are **not included in the report**.
    <p>I can only remember that <span class="nonlucid">I was standing in a place talking to people.</span></p>
 
    <p>Last night I had a lucid dream that felt so real. <span class="nonlucid">At first, I was hanging with my friends. Then I thought about how weird it was that my friend didn't look the same as they usually do,</span> <span class="lucid">and realized that I must be dreaming! I thought about what I should do in my dream and decided to fly.</span> This was my first lucid dream in a long time and I was pretty excited about it.</p>
-    
-   <p>I had a lucid dream in which <span class="lucid">I tried to fly out of my bedroom but couldn't, and so I fell off the balcony. It was terrible!</span> Why do I keep having dreams like this?</p>
+
+   <p>I had a lucid dream in which <span class="lucid">I tried to fly out of my bedroom but couldn't, and so I fell off the balcony.</span> It was terrible! Why do I keep having dreams like this?</p>
 
    <p><span class="nonlucid">We decide on a film and drive off in the car.</span> Then I wake up.</p>
 
    <p><span class="nonlucid">But as long as I am still playing, I should please play in the attack, even though I played defense throughout the tournament.</span> I don't know any more.</p>
+
+   <p><span class="nonlucid">While at the zoo, I turned around to look for my mom but she was gone. It was so scary.</span> I woke up and felt horrified.</p>
 
    <p><span class="nonlucid">The rock was bright red and the cave was, however, in the twilight.</span> Unfortunately, I can't remember anything more.</p>
 
@@ -75,22 +77,6 @@ Sometimes, especially in internet dream reports, there is a lot of miscellaneous
    <blockquote>
    <em>
    <p>NONLUCID - Galantamine 8mg - Sun morning 10:30 AM <span class="nonlucid">The dream started in my old high school and I was with most of my family. I couldn't stop thinking about how we shouldn't be there, in the school, but I don't know why. At the time there was nothing obvious to be afraid of.</span> UPDATED: 10/20/2015</p>
-   </em>
-   </blockquote>
-
-
-Post-dream adjectives
----------------------
-
-Often, the dream report contains dream-relevant content after all the specific dream content has been told. For example, an adjective used to describe the dream. These should be kept. However, in cases where the adjective describes waking mood, it should not be included.
-
-.. raw:: html
-
-   <blockquote>
-   <em>
-   <p><span class="nonlucid">I had the feeling that the "bad guy" was looking at me and speaking to me.</span> After that I'm not sure what happened. <span class="nonlucid">All in all very exciting thing</span>, I would like to know how it ended.</p>
-
-   <p><span class="nonlucid">While at the zoo, I turned around to look for my mom but she was gone. It was so scary.</span> I woke up and felt horrified.</p>
    </em>
    </blockquote>
 
@@ -128,6 +114,9 @@ Multiple dreams
 
 Each dream report should include **only 1 dream**. What constitutes multiple dreams is not very clear, so only include/highlight the first dream *as specified by the author*. That is, don't use any subjective judgement as to what constitues a new/second dream. Only cut this off if the author of the dream report specifies that – to them – a first dream ended and a second dream began.
 
+Note that if there is a dream *other than the first dream* that stands out as the most vivid, you should use that dream *instead* of the first.
+
+
 .. raw:: html
 
    <blockquote>
@@ -135,6 +124,8 @@ Each dream report should include **only 1 dream**. What constitutes multiple dre
    <p>Last night I had a few dreams. In the first dream, <span class="nonlucid">I was with a group of people who I'd never seen before. They tried to pressure me into playing baseball with them but I didn't want to.</span> The second dream was way more boring. I was shopping at the local store for things I needed to build a birdhouse. I might have had a third dream too, not sure.</p>
 
    <p>Dream 1: <span class="nonlucid">I was with a group of people who I'd never seen before. They tried to pressure me into playing baseball with them but I didn't want to.</span> Dream 2: The second dream was way more boring. I was shopping at the local store for things I needed to build a birdhouse. I might have had a third dream too, not sure. Dream 3: I was in an episode of Lost, not a main character.</p>
+
+   <p>I had a few dreams. The first one I don't remember much, I think I was in an abandoned building looking for my dog. In the second dream, <span class="nonlucid">I was a member of a rock band. We had lots of shows and were in the middle of a tour across the globe.</span> I remember that <span class="nonlucid">we were about to finish our final show when the stage fell down.</span></p>
    </em>
    </blockquote>
 
@@ -166,7 +157,7 @@ Sometimes there are very short reports that have no real discernible content, on
    <blockquote>
    <em>
    <p>I had a memory only in the morning when I woke up, then forgot it.</p>
-   <p>It was entire night of chase dreams. Anxiety dreams.</p>
+   <p>It was an entire night of chase dreams. Anxiety dreams.</p>
    <p>I had a precognitive dream. I dreamt of what I would experience the next day.</p>
    <p>Processing of the events experienced during the day. Woke up.</p>
    </em>
