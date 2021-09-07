@@ -18,7 +18,6 @@ This is **not a coding manual or scoring guide** (as in `Schredl, M. (2010). Dre
 
    background
    annotation
-   practice
    login
 
 

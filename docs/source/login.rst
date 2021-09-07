@@ -3,14 +3,16 @@ Login info
 
 .. note::
 
-   The following is only relevant for lab members.
+   This only relevant to lab members.
 
 
-Log into our own `doccano <https://doccano.herokuapp.com/>`_  app `here <https://droccano.herokuapp.com/>`_.
+doccano
+-------
 
-Log in with the username and password provided to you (`request one <mailto:mallett.remy@gmail.com>`_ if you haven't received one yet).
+Log into our own doccano app, `droccano <https://droccano.herokuapp.com/>`_, with the username and password provided to you (`request one <mailto:mallett.remy@gmail.com>`_ if you haven't received one yet).
 
-**Some reasonable annotation software**
 
-- `doccano <https://doccano.herokuapp.com/>`_
-- `tagtog <https://www.tagtog.net/>`_
+tagtog
+------
+
+Log into `tagtog <https://www.tagtog.net/>`_ with the username and password you created.

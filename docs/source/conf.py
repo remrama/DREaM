@@ -47,7 +47,7 @@ exclude_patterns = []
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'alabaster'
+html_theme = 'nature'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -57,3 +57,14 @@ html_static_path = ['_static']
 html_css_files = [
     'css/annotations.css',
 ]
+
+
+# -- custom stuff I'm adding -------------------------------------------------
+
+# only show table of contents in the sidebar
+html_sidebars = {
+   '**': ['globaltoc.html'],
+}
+
+# remove the "index" link in the header, since there is not content there
+html_use_index = False
