@@ -55,7 +55,7 @@ html_theme = 'nature'
 html_static_path = ['_static']
 
 html_css_files = [
-    'css/annotations.css',
+    'css/style.css',
 ]
 
 

@@ -1,3 +1,5 @@
+.. _login:
+
 Login info
 ==========
 

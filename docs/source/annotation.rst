@@ -1,26 +1,20 @@
+.. _annotations:
+
 Annotation rules
 ================
 
-The ultimate goal is to highlight any text that refers to dream content, and leave the rest unmarked. Dream content *in this context* refers to any mental activity that occurred during sleep, including content that is descriptive of the experience.
-
-For example
-
 .. raw:: html
 
-   <blockquote>
-   <em>
-   <p>Last night I had another work dream. <span class="nonlucid">I was serving tables at the restaurant I work at but couldn't keep up with all the customer demands</span> (this actually happened at work a few days ago). <span class="nonlucid">Eventually I got so frustrated that I quit on the spot! I felt so relieved</span>, then I woke up.</p>
-   </em>
-   </blockquote>
+   <p>
+   This section has the specific guidelines for what does and does not constitute dream content within a dream report. Examples are provided for each rule, with non-lucid dream content highlighted in <span class="nonlucid">this color</span> and lucid dream content highlighted in <span class="lucid">this color</span>. Please read through the entire guide carefully before annotating dream reports.
+   </p>
+   
+This can and should be used as a reference while annotating dream reports.
 
+.. warning::
 
-.. raw:: html
+   These are not hard-and-fast rules, and you'll find that there are many ambiguous cases. As a general rule, *don't overthink*, rely on intuition, and don't debate over a specific annotation for more than a half a minute.
 
-   <p>Dream reports will be highlighted/annotated with 2 colors: Non-lucid dream content will be highlighted in <span class="nonlucid">this color</span>. Lucid dream content will be highlighted in <span class="lucid">this color</span>.</p>
-
-
-.. centered::
-   Specific cases are mentioned with examples below.
 
 
 Intro/outro excess
@@ -30,7 +24,7 @@ Intro statements such as "I dreamt that ..." are **not included in the report**.
 
 .. raw:: html
 
-   <blockquote>
+   <blockquote class="dream">
    <em>
    <p>Little memory. <span class="nonlucid">Drove a car race in black and white in very, very old racing cars.</span></p>
 
@@ -61,7 +55,7 @@ Notably, there are instances where a specific reference to the dream has to be p
 
 .. raw:: html
 
-   <blockquote>
+   <blockquote class="dream">
    <em>
    <p><span class="nonlucid">I dreamed of a working on a school project, I totally failed!</span></p>
 
@@ -74,7 +68,7 @@ Sometimes, especially in internet dream reports, there is a lot of miscellaneous
 
 .. raw:: html
 
-   <blockquote>
+   <blockquote class="dream">
    <em>
    <p>NONLUCID - Galantamine 8mg - Sun morning 10:30 AM <span class="nonlucid">The dream started in my old high school and I was with most of my family. I couldn't stop thinking about how we shouldn't be there, in the school, but I don't know why. At the time there was nothing obvious to be afraid of.</span> UPDATED: 10/20/2015</p>
    </em>
@@ -89,7 +83,7 @@ Dream reports very commonly include references to waking life embedded in them. 
 
 .. raw:: html
 
-   <blockquote>
+   <blockquote class="dream">
    <em>
    <p><span class="nonlucid">My teacher calls me. I say that I overslept and hang up</span> (that day / morning I really overslept and the conversation went similarly). <span class="nonlucid">I go back to sleep</span> in the dream and then wake up for real.</p>
    <p><span class="nonlucid">We were out, but I didn't know the club or the streets we walked through, which also seemed unknown to me</span> (when I think about it now).</p>
@@ -101,7 +95,7 @@ If the comments and additions relate to the dream content (even if *referencing 
 
 .. raw:: html
 
-   <blockquote>
+   <blockquote class="dream">
    <em>
    <p><span class="nonlucid">I was driving a car that looked a lot like one I've seen in the Fast and the Furious. But it wasn't as fast and I lost the race :(</span> I figure I dreamed about that movie because I watched it a few nights ago.</p>
    </em>
@@ -119,7 +113,7 @@ Note that if there is a dream *other than the first dream* that stands out as th
 
 .. raw:: html
 
-   <blockquote>
+   <blockquote class="dream">
    <em>
    <p>Last night I had a few dreams. In the first dream, <span class="nonlucid">I was with a group of people who I'd never seen before. They tried to pressure me into playing baseball with them but I didn't want to.</span> The second dream was way more boring. I was shopping at the local store for things I needed to build a birdhouse. I might have had a third dream too, not sure.</p>
 
@@ -137,7 +131,7 @@ Expressive non-word character sequences, like emojis, should be included. If the
 
 .. raw:: html
 
-   <blockquote>
+   <blockquote class="dream">
    <em>
    <p>I just woke up. In my most recent dream <span class="nonlucid">I didn't stop running until I ran into a forest that had no trail. I couldn't figure out where to go so I just started wading through bushes in a random direction :/</span></p>
 
@@ -154,7 +148,7 @@ Sometimes there are very short reports that have no real discernible content, on
 
 .. raw:: html
 
-   <blockquote>
+   <blockquote class="dream">
    <em>
    <p>I had a memory only in the morning when I woke up, then forgot it.</p>
    <p>It was an entire night of chase dreams. Anxiety dreams.</p>
@@ -169,7 +163,7 @@ Sometimes there are very short reports that have no real discernible content, on
 Lucidity
 --------
 
-Lucid dreams are dreams where the dreamer is aware of the dream *as it is occuring*. Simple enough right? Not really (`Mallett et al., 2021 <https://doi.org/10.33735/phimisci.2021.63>`_).
+Lucid dreams are dreams where the dreamer becomes aware of the fact that they are dreaming while remaining asleep (`Baird et al., 2019 <https://doi.org/10.1016/j.neubiorev.2019.03.008>`_). Simple enough right? Not really (`Mallett et al., 2021 <https://doi.org/10.33735/phimisci.2021.63>`_).
 
 A lucid dream is not defined by vividness, nor by the amount of dream control. There is confusion here, perhaps because lucid dreams *tend to be* higher in vividness and dream control.
 
@@ -179,7 +173,7 @@ But for annotating dreams, it is important to highlight lucid portions of a drea
 
 .. raw:: html
 
-   <blockquote>
+   <blockquote class="dream">
    <em>
    <p><span class="nonlucid">I was in my old apartment. I was looking in the mirror and saw that I had long hair.</span> <span class="lucid">So I thought, I must be dreaming!</span> I probably had this realization because I actually but my hair in real life a few days ago.<span class="lucid"> I looked for the nearest window and stuck my head out to see how high up it was. It wasn't too far, so I tried to fly.</span></p>
 
@@ -193,7 +187,7 @@ In this case, you as the annotator are the judge of lucidity. That is, even if t
 
 .. raw:: html
 
-   <blockquote>
+   <blockquote class="dream">
    <em>
    <p>I always have this nightmare. <span class="nonlucid">I am running away from an attacker, but I'm moving very slow and my legs won't work they way I want them to.</span> But in this instance, <span class="lucid">I recognized that I was dreaming and decided to wake up.</span> Then I did.</p>
 
@@ -205,7 +199,7 @@ Be conservative. If they imply knowing the experience was not real, but not that
 
 .. raw:: html
 
-   <blockquote>
+   <blockquote class="dream">
    <em>
    <p>I always have this nightmare. <span class="nonlucid">I am running away from an attacker, but I'm moving very slow and my legs won't work they way I want them to. I thought, "this isn't real", and decided to wake up.</span> Then I did.</p>
    </em>
@@ -216,7 +210,7 @@ Lucidity is often fleeting. If the author states that lucidity might have dissip
 
 .. raw:: html
 
-   <blockquote>
+   <blockquote class="dream">
    <em>
    <p>I finally had a lucid dream! <span class="nonlucid">At first I was walking along my old neighborhood street.</span> <span class="lucid">Then I became lucid and tried to find my friend, because we always said we would meet up in a lucid dream. But the lucidity quickly faded and I was in a non-lucid dream again.</span> <span class="nonlucid">I walked into the nearest house and asked for syrup.</span> What is that??</p>
    </em>
@@ -231,7 +225,7 @@ Be liberal with comments about being kinda lucid *after* having clear lucidity. 
 
 .. raw:: html
 
-   <blockquote>
+   <blockquote class="dream">
    <em>
    <p><span class="lucid">I was lucid and trying to fly. It was getting strange and I feel like I started to lose lucidity. I kept trying to flap my wings but they wouldn't flap like I wanted them to.</span> Was that a lucid dream?</p>
    <p><span class="nonlucid">I think I was lucid and tried to fly. I soared over the mountains.</span> I never fully realized I was dreaming though.</p>

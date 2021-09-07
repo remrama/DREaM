@@ -1,20 +1,27 @@
 
-Dream Report Annotation Manual
-==============================
+**D**\ ream **Re**\ port **A**\ nnotation **M**\ anual
+======================================================
 
-Dream reports are the most viable data for studying dream content, despite being imperfect representations (`Windt, 2013 <https://doi.org/10.3389/fnhum.2013.00708>`_). In addition to the desired dream content, dream reports often contain a large amount of non-dream content. Therefore, a critical pre-processing step before analyzing dream reports is to "clean them up" by removing all the non-dream content. To do so, **we use annotation software to highlight the relevant portions of the dream report we want to keep**.
+Consider that a **dream** is broadly defined as "any subjective experience during sleep" (`Siclari et al., 2021 <https://doi.org/10.1016/S1474-4422(20)30275-1>`_), yet a **dream report** is defined as "the recollection of mental activity which has occurred during sleep" (`Schredl, 2010 <https://doi.org/10.1016/S0074-7742(10)92007-2>`_). A dream report is the *recollection* of the dream, which may or may not include excess non-dream content.
 
-**This manual includes the guidelines for what and what not to highlight in a dream report. Ultimately, the goal is to highlight only text that refers to or describes mental activity that occured during sleep.** Read through the entire guide before beginning to annotate.
+The goal of annotation is to highlight *only the dream content* of a dream report.
 
-Before recorded or written reports can be used for further dream content analysis, they must first be digitized. **This manual is written with the assumption that dream reports are already digitized, and in most cases pulled from originally digital sources.**
+.. raw:: html
 
-This is **not a coding manual or scoring guide** (as in `Schredl, M. (2010). Dream content analysis: Basic principles. International Journal of Dream Research. <https://www.researchgate.net/profile/Michael-Schredl/publication/47541051_Dream_content_analysis_Basic_principles/links/5687b01b08aebccc4e1522bb/Dream-content-analysis-Basic-principles.pdf>`_). There is no specific outcome for each dream report (e.g., how much emotional content). The purpose here is to *annotate* the dream reports such that those analyses can be performed later. This is a *pre-processing* step, akin to "cleaning" the dream report, rather than a processing step.
+   <blockquote class="dream">
+   <em>
+   <p>Last night I had another work dream. <span class="nonlucid">I was serving tables at the restaurant I work at but couldn't keep up with all the customer demands</span> (this actually happened at work a few days ago). <span class="nonlucid">Eventually I got so frustrated that I quit on the spot! I felt so relieved</span>, then I woke up. I think I keep dreaming about work because it's been so stressful lately.</p>
+   </em>
+   </blockquote>
+   
+**This is** a document containing a set of guidelines for annotating – or cleaning – dream reports. The goal is to separate out dream from non-dream content in dream reports. After a (very) brief :ref:`background <background>` on the topic, the guidelines are all on the main :ref:`annotation rules <annotations>` page.
+
+**This is not** a "dream content analysis" coding manual or scoring guide (as described in `Schredl, 2010 <https://doi.org/10.11588/ijodr.2010.1.474>`_). That is, this is not a process of rating the specific contents (e.g., quantifying emotional content). These are steps for disentangling dream from non-dream content in dream reports, which is a necessary step prior to such analyses. It's a *pre-processing* step, not a processing step.
 
 
 .. toctree::
    :maxdepth: 2
    :numbered:
-   :caption: Sections:
 
    background
    annotation
