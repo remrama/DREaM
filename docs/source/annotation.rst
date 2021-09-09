@@ -9,7 +9,7 @@ Annotation rules
    This section has the specific guidelines for what does and does not constitute dream content within a dream report. Examples are provided for each rule, with non-lucid dream content highlighted in <span class="nonlucid">this color</span> and lucid dream content highlighted in <span class="lucid">this color</span>. Please read through the entire guide carefully before annotating dream reports.
    </p>
    
-This can and should be used as a reference while annotating dream reports.
+This can (and should!) be used as a reference while annotating dream reports.
 
 .. warning::
 
