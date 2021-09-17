@@ -1,3 +1,5 @@
 # DReAM
 
-Dream Report Annotation Manual
+**D**ream **Re**port **A**nnotation **M**anual
+
+The manual can be found [here](http://d-re-a-m.readthedocs.io/).
