@@ -12,9 +12,7 @@ A dream report is the recollection of the dream, which may or may not include ex
    </em>
    </blockquote>
 
-**This is** a document containing a set of guidelines for annotating – or cleaning – dream reports. The goal is to separate out dream from non-dream content in dream reports. After a (very) brief :ref:`background <background>` on the topic, the guidelines are all on the main :ref:`annotation rules <annotations>` page.
-
-**This is not** a "dream content analysis" coding manual or scoring guide (as in `Schredl, 2010 <https://doi.org/10.11588/ijodr.2010.1.474>`_). That is, this is not a process of rating the specific contents (e.g., quantifying emotional content). These are steps for disentangling dream from non-dream content in dream reports, which is a necessary step prior to such analyses. It's a *pre-processing* step, not a processing step.
+This is a document containing a set of guidelines for annotating – or cleaning – dream reports. The goal is to separate out dream from non-dream content in dream reports. After a (very) brief :ref:`background <background>` on the topic, the guidelines are all on the main :ref:`annotation rules <annotations>` page.
 
 
 .. toctree::

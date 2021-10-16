@@ -7,7 +7,7 @@ Subjective dream reports are the most viable data for studying dream content (`W
 
 However, in addition to the desired dream content, dream reports often contain a large amount of non-dream content. Therefore, a critical pre-processing step before analyzing dream reports is to "clean" them up by removing all the non-dream content (see `Schredl, 2018 <http://doi.org/10.1007/978-3-319-95453-0>`_ Chapter 3.3 for more details).
 
-To clean up a large database of dreams, it's useful to use *annotation software*. With annotation software, we can highlight relevant portions of the dream report that we want to keep, and later convert the annotation to a csv file that has a new column with the "dream-only" dream report. The following section, and purpose of this manual, is to provide suggested guidelines for extracting/highlighting dream content within the dream report.
+For this task, we can use annotation software to highlight relevant portions of the dream report that we want to keep, and later convert the annotation to a csv file that has a new column with the "dream-only" dream report. The following section, and purpose of this manual, is to provide suggested guidelines for extracting/highlighting dream content within the dream report.
 
 
 **Further reading**

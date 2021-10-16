@@ -163,27 +163,30 @@ Sometimes there are very short reports that have no real discernible content, on
 Lucidity
 --------
 
-Lucid dreams are dreams where the dreamer becomes aware of the fact that they are dreaming while remaining asleep (`Baird et al., 2019 <https://doi.org/10.1016/j.neubiorev.2019.03.008>`_). Simple enough right? Not really (`Mallett et al., 2021 <https://doi.org/10.33735/phimisci.2021.63>`_).
+For some studies, you might want to highlight lucid sections of the report separately from the non-lucid sections.
 
-A lucid dream is not defined by vividness, nor by the amount of dream control. There is confusion here, perhaps because lucid dreams *tend to be* higher in vividness and dream control.
+Lucid dreams are dreams where the dreamer becomes aware of the fact that they are dreaming while remaining asleep (`Baird et al., 2019 <https://doi.org/10.1016/j.neubiorev.2019.03.008>`_). Deciding whether a dream is lucid or not can be difficult, since lucidity can occur in varying degrees (`Mallett et al., 2021 <https://doi.org/10.33735/phimisci.2021.63>`_), but for the purposes of this dream cleaning task we will set a **strict and exclusive threshold of fully recognizing that one is dreaming**.
 
-A lucid dream does not need to have dream awareness throughout the entire dream. Dream awareness, or *lucidity*, can wax and wane throughout a dream. If lucidity appears at all, the dream qualifies as a lucid dream.
+Lucid dreams *can* include the dreamer controlling the dream, though **it is not required**. There are many instances of a dreamer being aware of the dream but not able to control anything, and that still constitutes a fully lucid dream.
 
-But for annotating dreams, it is important to highlight lucid portions of a dream with a separate label/color. If a dream has lucid and non-lucid parts, only highlight the lucid parts as lucid dream content.
+Lucidity, or awareness of the dream, can happen momentarily. That is, **one can become aware of the dream and then "lose" it, going back to a non-lucid dream**. If lucidity appears at all, the dream qualifies as a lucid dream.
+
+For annotating dreams, it is important to highlight lucid *sections* of a dream with a separate label/color. If a dream has lucid and non-lucid parts, only highlight the lucid parts as lucid dream content.
 
 .. raw:: html
 
    <blockquote class="dream">
    <em>
-   <p><span class="nonlucid">I was in my old apartment. I was looking in the mirror and saw that I had long hair.</span> <span class="lucid">So I thought, I must be dreaming!</span> I probably had this realization because I actually but my hair in real life a few days ago.<span class="lucid"> I looked for the nearest window and stuck my head out to see how high up it was. It wasn't too far, so I tried to fly.</span></p>
+   <p><span class="nonlucid">I was in my old apartment. I was looking in the mirror and saw that I had long hair.</span> <span class="lucid">So I thought, I must be dreaming!</span> I probably had this realization because I actually cut my hair in real life a few days ago.<span class="lucid"> I looked for the nearest window and stuck my head out to see how high up it was. It wasn't too far, so I tried to fly.</span></p>
 
    <p><span class="nonlucid">I was running from a bear in the woods, terrified.</span> <span class="lucid">But I became lucid and realized that I didn't need to run, since the bear wasn't even real! So I closed my eyes and re-opened them, and the bear was gone. I found myself at the edge of a cliff. I jumped off</span> then I woke up.</p>
    </em>
    </blockquote>
 
 
+In this case, **you as the annotator are the judge of lucidity**. That is, even if the author doesn't use the phrase "lucid", but they otherwise make it clear that they are aware of the dream, then it is lucid.
 
-In this case, you as the annotator are the judge of lucidity. That is, even if the author doesn't use the phrase "lucid", but they otherwise make it clear that they are aware of the dream, then it is lucid.
+Conversely, they might say "I was lucid" and then something like "but I didn't fully realize I was dreaming", in which case this would be non-lucid. Though if they only say "I was lucid" and don't imply anything that suggests otherwise, assume they understand the definition and mark it as lucid.
 
 .. raw:: html
 
@@ -194,6 +197,7 @@ In this case, you as the annotator are the judge of lucidity. That is, even if t
    <p>I always have this nightmare. <span class="nonlucid">I am running away from an attacker, but I'm moving very slow and my legs won't work they way I want them to.</span> But in this instance, <span class="lucid">I thought "this isn't real" and decided to wake up.</span> Then I did. How great!</p>
    </em>
    </blockquote>
+
 
 Be conservative. If they imply knowing the experience was not real, but not that it was a dream specifically, keep it as non-lucid.
 
@@ -206,7 +210,7 @@ Be conservative. If they imply knowing the experience was not real, but not that
    </blockquote>
 
 
-Lucidity is often fleeting. If the author states that lucidity might have dissipated, that should be included in the end of the lucid annotation.
+Lucidity is often fleeting. If the author states that lucidity might have dissipated, that should be included in the end of the lucid annotation. If they don't mention lucidity being lost, assume the dream has remained lucid.
 
 .. raw:: html
 
@@ -221,7 +225,7 @@ Lucidity falls along a continuum. It's possible to be "semi" or "partially" luci
 
 For our purposes, we are not including an annotation for partial lucidity. Thus, when lucidity is on the line, it is important to read the whole dream report and make your own evaluation as to whether the dreamer was aware of the dream at any given moment.
 
-Be liberal with comments about being kinda lucid *after* having clear lucidity. Less so with dreams that only include partial lucidity.
+Be liberal with comments about being semi-lucid *after* having clear lucidity. Less so with dreams that only include partial lucidity.
 
 .. raw:: html
 
